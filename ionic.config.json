@@ -1,0 +1,7 @@
+{
+  "name": "cvitae",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
